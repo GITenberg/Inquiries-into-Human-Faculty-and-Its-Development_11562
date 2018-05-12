@@ -1,5 +1,8 @@
 _repo: Inquiries-into-Human-Faculty-and-Its-Development_11562
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galton, Francis
@@ -14,6 +17,8 @@ description: "Inquiries into Human Faculty and Its Development is an 1883 book b
   \ subsequent measurement. In this text he also references the idea of eugenics and\
   \ coined the term for the first time (though he had published his ideas without\
   \ the name many years earlier).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11562#Inquiries-into-Human-Faculty-and-Its-Development
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
